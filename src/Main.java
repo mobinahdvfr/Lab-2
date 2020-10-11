@@ -48,7 +48,9 @@ public class Main {
         lab.calculateAvg();
         lab.print();
 
-
+        Faculty faculty = new Faculty();
+        faculty.addLab(lab);
+        faculty.printLabs();
 
 
 

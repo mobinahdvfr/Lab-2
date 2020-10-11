@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4c1ad3ce-88e6-4b35-a23d-eb0d71287842" name="Default Changelist" comment="" />
+    <list default="true" id="4c1ad3ce-88e6-4b35-a23d-eb0d71287842" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Faculty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Student/Lab.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Student/Lab.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Student/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Student/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +22,10 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
   <component name="ProjectId" id="1ijNxP5wB5ZzGCtDRasjRWGPfXI" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -21,6 +33,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -60,6 +73,7 @@
       <updated>1602417286536</updated>
       <workItem from="1602417290966" duration="5086000" />
       <workItem from="1602429618697" duration="3326000" />
+      <workItem from="1602433774066" duration="1083000" />
     </task>
     <servers />
   </component>
@@ -67,21 +81,29 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1602432946811">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1602434860808">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602432946811" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1602432946811">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602434860808" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1602434860808">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1602432946811" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1602432946811">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1602434860808" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1602434860808">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1602432946811" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1602432946811">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1602434860808" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1602434860808">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602432946811" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602434860808" />
+    <state x="578" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602434781671">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="578" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1602434781671" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1602434359739">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1602434359739" />
   </component>
 </project>

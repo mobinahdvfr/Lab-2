@@ -40,7 +40,6 @@ public class Lab {
         if (currentSize < capacity) {
             students[currentSize] = std;
             currentSize++;
-            calculateAvg();
         } else {
             System.out.println("Lab is full!!!");
         }
@@ -96,7 +95,6 @@ public class Lab {
      * @param students new list of students
      */
     public void setStudents(Student[] students) {
-        this.students = students;
         int i=0;
         for (Student s : students){
             if (s != null) {
@@ -105,7 +103,12 @@ public class Lab {
                 }
             }
         }
-        currentSize = i;
+        if (i<capacity) {
+            this.students = students;
+            currentSize = i;
+        } else {
+            System.out.println("there are more students than the capacity of the lab!");
+        }
     }
 
     /**
